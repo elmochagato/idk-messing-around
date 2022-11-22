@@ -126,7 +126,7 @@ select {
 .bottom-navbar button.float{
   border-radius: 25px;
   height: 60px;
-  box-shadow: 0px 8px 20px 0px rgba(232, 76, 79, .4);
+  box-shadow: 0px 5px 18px 0px rgba(232, 76, 79, .4);
 }
 
 .bottom-navbar button.float i {
@@ -207,6 +207,7 @@ section {
   background-color: transparent;
   color: white;
   border-radius: 0;
+  border: 0;
 }
  
 .col {
