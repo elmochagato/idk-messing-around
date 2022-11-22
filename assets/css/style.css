@@ -186,8 +186,11 @@ vertical-align: middle;
 }
 
 .navbar-toggler:focus {
-  box-shadow:0px 3px 15px 0px rgba(232, 76, 79, .4);
+  box-shadow: none;
+  outline: none !important;
+  transition: all .25s ease;
 }
+
 
 @media screen and (min-width: 1281px) {
 .search {
