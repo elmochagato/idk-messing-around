@@ -191,7 +191,6 @@ vertical-align: middle;
   transition: all .25s ease;
 }
 
-
 @media screen and (min-width: 1281px) {
 .search {
   display: none;
