@@ -94,6 +94,12 @@ select {
   background-color: #0f0f0f !important;
 }
 
+.navbar-brand  {
+  font-family: "Roboto", sans-serif;
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
 @media screen and (max-width: 1096px) {
 .bottom-navbar {
   position: fixed;
